@@ -41,6 +41,7 @@ Javaの基本構文と例外処理の学習を目的とした、コンソール�
 
 ## ディレクトリ構成
 
+<pre>
 calculator-app/
 ├── src/
 │ ├── Main.java
@@ -51,6 +52,7 @@ calculator-app/
 │ └── design.md
 ├── .gitignore
 └── README.md
+</pre>
 
 ---
 
